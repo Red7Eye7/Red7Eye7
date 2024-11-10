@@ -31,5 +31,5 @@
   <img scr = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
   <img scr = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
   <img scr = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" width="40" height="40"/>
-  <img scr = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" height="40"/>
+  <img scr = "https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
 </div>
