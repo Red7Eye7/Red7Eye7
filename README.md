@@ -8,5 +8,5 @@
   </a>
 </div>
 <div id="viewprof" align="center">
-    <img src="https://komarev.kom/ghpvc/?usermame=Red7Eye7&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.kom/ghpvc/?usermame=Red7Eye7&style-flat-square&color=blue" alt=""/>
 </div>  
